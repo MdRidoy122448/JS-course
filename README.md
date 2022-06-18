@@ -1,5 +1,5 @@
 # JS-course
-Assaignment number 1 ... answering below
+## Day 1 ... answering below
 
 1.Explain the use of JavaScript ( or What you can do using a JavaScript)?
 
@@ -34,3 +34,25 @@ Assaignment number 1 ... answering below
 7.Explain DOM in your own word.
 
     Answer : DOM is stands for Document Object Model. DOM is how js can get access with of HTML documents.
+
+## Day 2 ... answering below
+1.What is lexical structure?
+
+    Answer : Lexical structure is the set of elementary rules that specifies how you write programs in the language.
+
+2.What is Unicode?
+
+    Answer :  The Unicode Standard provides a unique number for every character, no matter what platform, device, application or language. With the help of Unicode system, we can easily write unique symbols, character, language of any country whatever i want. It's very effective and awesome feature.
+
+3.Explain all the keyboards present in the JavaScript with examples.
+
+    Answer : Sorry, i don't know it properly.
+
+4.What are shorthand operators, explain with a suitable example?
+
+    Answer : Some shorthand operators are "+=", "-=", "*=", "/=", "%="... there may be more. I know just this.
+
+5.What is “use Strict” in JavaScript?
+
+    Answer : It's a feature of ES5. "use strict"; Defines that JavaScript code should be executed in "strict mode".
+
